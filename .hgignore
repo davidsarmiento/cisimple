@@ -1,0 +1,23 @@
+syntax: regexp
+user_guide/
+.idea/
+
+assets/uploads/
+cache/
+syntax: regexp
+
+.htaccess
+Thumbs.db
+Desktop.ini
+
+
+# IDEs project files/settings
+nbproject/
+nbactions.xml
+.settings/
+.project
+.metadata
+.properties
+.idea/*
+vendor/*
+sparks/*
